@@ -27,5 +27,5 @@
 /gps/energy 662 keV 
 /gps/pos/type Point 
 /gps/ang/type iso 
-/gps/pos/centre 0.46986 -0.08005 0.03109 m
+/gps/pos/centre -0.302952 -0.040113 0.063421 m
 /run/beamOn 1000000 
